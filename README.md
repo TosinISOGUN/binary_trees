@@ -3,11 +3,13 @@
 ## Description
 Binary Tree is defined as a tree data structure where each node has at most 2 children. Since each element in a binary tree can have only 2 children, we typically name them the left and right child.
 
+<p align="center">
 <img src="https://www.geeksforgeeks.org/wp-content/uploads/binary-tree-to-DLL.png" width="" height="" />
+</p>
 
 ## Requirements & Environment
 
-<img src="https://github.com/TosinISOGUN/TosinISOGUN/blob/main/ALX.jpeg?raw=true" width="30" height="27" />
+<img src="https://github.com/TosinISOGUN/TosinISOGUN/blob/main/ALX.jpeg?raw=true" width="300" height="100" />
 
 - Allowed editors: `vi`, `vim`, `emacs`.
 - All files will be compiled on `Ubuntu 20.04` LTS using gcc, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`.
