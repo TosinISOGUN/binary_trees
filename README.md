@@ -6,7 +6,9 @@ Binary Tree is defined as a tree data structure where each node has at most 2 ch
 <img src="https://www.geeksforgeeks.org/wp-content/uploads/binary-tree-to-DLL.png" width="" height="" />
 
 ## Requirements & Environment
-<img src="https://github.com/TosinISOGUN/TosinISOGUN/blob/main/ALX.jpeg?raw=true" />
+
+<img src="https://github.com/TosinISOGUN/TosinISOGUN/blob/main/ALX.jpeg?raw=true" width="30" height="27" />
+
 - Allowed editors: `vi`, `vim`, `emacs`.
 - All files will be compiled on `Ubuntu 20.04` LTS using gcc, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`.
 - All files should end with a new line.
